@@ -1,10 +1,10 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: "FIXME"    # dc (must be either "lc" or "dc" or "swc")
-venue: "FIXME"        # The Jackson Laboratory (e.g., "Euphoric State University")
-address: "FIXME"      # Holt Conference Room, 10 Discovery Drive, Farmington, CT (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
-country: "FIXME"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
-language: "FIXME"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
+carpentry: "dc"    # (must be either "lc" or "dc" or "swc")
+venue: "The Jackson Laboratory"        # (e.g., "Euphoric State University")
+address: "Holt Conference Room, 10 Discovery Drive, Farmington, CT"      # (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
+language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "FIXME"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "FIXME"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "FIXME"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
